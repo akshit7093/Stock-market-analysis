@@ -131,7 +131,7 @@ Feel free to fork the repository and submit pull requests with improvements or b
 
 ## Contact
 
-For any questions or feedback, please contact [akshitsharma7093@gail.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [akshitsharma7093@gmail.com](mailto:your-email@example.com).
 
 ---
 
