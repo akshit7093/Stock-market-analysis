@@ -1,7 +1,4 @@
-# Stock-market-analysis
-Here's a detailed `README.md` file for your project. This file will include sections for project description, setup instructions, code explanations, and usage examples.
 
----
 
 # Stock Trading Simulation Project
 
